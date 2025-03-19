@@ -1,0 +1,127 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/index.html
+Subject: Portfolio
+Date: Wed, 19 Mar 2025 10:20:03 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--H53xxQ5o1BHWa2ODmPZmVFZ5FhVbxS8RWSuzl0TB6K----"
+
+
+------MultipartBoundary--H53xxQ5o1BHWa2ODmPZmVFZ5FhVbxS8RWSuzl0TB6K----
+Content-Type: text/html
+Content-ID: <frame-66CB6F5FE3701F3A21A8237E84070724@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/index.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-855aea19-0d95-46e1-a96f-f4f9b1aba02d@mhtml.blink" />
+    <title>Portfolio</title>
+    
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <!-- Add your profile picture here -->
+            <img src="http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/Downloads/1000062236.png" alt="Your Profile Picture" class="Profile-picture">
+            <h1>Gomathi E</h1>
+            <p> Computer Science </p>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/index.html#about">About</a></li>
+            <li><a href="http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/index.html#education">Education</a></li>
+            <li><a href="http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/index.html#skills">Skills</a></li>
+            <li><a href="http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/index.html#contact">Contact</a></li>
+            <li><a href="http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/index.html#resume">Resume</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <div class="section-content">
+            <h2>About Me</h2>
+            <p>I'm a <b>web development</b> expert who is passionate about creating dynamic and user-friendly websites. 
+                Hardworking college student with a motivated attitude and a variety of powerful skills.
+                Adept in various social media platforms and office technology programs. 
+                Committed to contributing my expertise in a dynamic office or media production environment.</p>
+        </div>
+    </section>
+    <section id="education">
+        <div class="section-content">
+            <h2>Education</h2>
+            <p>Madras University  - BSC</p>
+            <p>TMG College of Arts and Science</p>
+      </div>
+    </section>
+<section id="skills">
+        <div class="section-content">
+            <h2>Skills</h2>
+            <ul>
+                <li>Python</li>
+                <li>HTML</li>
+                <li>Css</li>
+                <li>Java</li>
+                <li>Java script</li>
+                <li>MS Excel</li>
+            </ul>
+        </div>
+    </section>
+    <section id="Contact">
+        <div class="section-content">
+            <h2>contact</h2>
+            <label>Username</label>
+            <input type="text"><br><br>
+            <label>Email</label>
+            <input type="text"><br><br>     
+        </div>
+    </section>
+    <section id="resume">
+        <div class="section-content">
+            <center>
+            <h2>Resume</h2>
+            <a href="http://jmQXUyYyEnscOKd:U18CetdJr9UjQ7g@localhost:51618/storage/emulated/0/Internal%20storage/Folder%201/Resume.pdf" target="_blank" class="download-button">Download CV</a>
+        </center>
+        </div>
+        
+    </section>
+
+    <footer>
+        <p>© 2025 Gomathi E</p>
+    </footer>
+
+    
+
+
+</body></html>
+------MultipartBoundary--H53xxQ5o1BHWa2ODmPZmVFZ5FhVbxS8RWSuzl0TB6K----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-855aea19-0d95-46e1-a96f-f4f9b1aba02d@mhtml.blink
+
+@charset "windows-1252";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; background-color: rgb(132, 199, 217); }
+
+header { background-color: rgb(102, 102, 102); color: rgb(255, 255, 255); text-align: center; padding: 2rem 0px; position: relative; }
+
+.header-content h1 { font-size: 2.5rem; }
+
+.profile-picture { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; position: absolute; top: 75px; left: 75px; }
+
+nav { background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); text-align: center; }
+
+nav ul { list-style-type: none; padding: 0px; }
+
+nav ul li { display: inline; margin: 0px 20px; }
+
+nav ul li a { text-decoration: none; color: rgb(255, 255, 255); }
+
+.section-content { background-color: rgb(255, 255, 255); padding: 2rem; margin: 1rem; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; text-align: justify; }
+
+.download-button { background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); padding: 0.5rem 1rem; text-decoration: none; border-radius: 20px; display: inline-block; margin-top: 10px; align-self: center; }
+
+.download-button:hover { background-color: rgb(85, 85, 85); }
+
+footer { text-align: center; padding: 1rem 0px; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); }
+
+ul { list-style-type: disc; padding-left: 20px; }
+------MultipartBoundary--H53xxQ5o1BHWa2ODmPZmVFZ5FhVbxS8RWSuzl0TB6K------
